@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd eeefliex-app && npm run build",
+  "outputDirectory": "eeefliex-app/.next",
+  "framework": "nextjs",
+  "devCommand": "cd eeefliex-app && npm run dev",
+  "installCommand": "cd eeefliex-app && npm install"
+} 
